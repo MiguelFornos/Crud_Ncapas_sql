@@ -1,0 +1,5 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaDatos\obj\Debug\CapaDatos.pdb

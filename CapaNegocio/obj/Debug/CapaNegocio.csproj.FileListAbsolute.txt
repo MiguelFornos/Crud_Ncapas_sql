@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\CRUD_NcapasSql\CapaNegocio\obj\Debug\CapaNegocio.pdb
